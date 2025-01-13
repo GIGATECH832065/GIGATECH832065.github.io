@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Link to another page]}(https://gigatech832065.github.io/WilsonFamilyLights32129/).
 
 There should be whitespace between paragraphs.
 
