@@ -1,5 +1,5 @@
 # GIGATECH832065.github.io
-GIGTECH
+
 Welcome to GIGTECH, a GitHub project by Brian Wilson. This project serves as a demonstration of various Markdown formatting features and provides a template for creating structured and informative README files.
 
 Table of Contents
